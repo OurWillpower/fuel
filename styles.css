@@ -229,3 +229,76 @@ box-shadow:0 0 25px rgba(229,193,88,.2);
 }
 
 }
+.aboutSection{
+
+padding:100px 80px;
+
+background:#01160d;
+
+}
+
+.sectionHeader{
+
+max-width:900px;
+
+margin:auto;
+
+text-align:center;
+
+}
+
+.sectionHeader h2{
+
+font-size:50px;
+
+margin-top:20px;
+
+font-weight:800;
+
+}
+
+.sectionHeader p{
+
+color:#cccccc;
+
+line-height:1.8;
+
+margin-top:30px;
+
+}
+
+.aboutGrid{
+
+display:grid;
+
+grid-template-columns:repeat(3,1fr);
+
+gap:30px;
+
+margin-top:70px;
+
+}
+
+.icon{
+
+font-size:50px;
+
+margin-bottom:20px;
+
+}
+
+.aboutGrid h3{
+
+font-size:24px;
+
+margin-bottom:15px;
+
+}
+
+.aboutGrid p{
+
+color:#cccccc;
+
+line-height:1.7;
+
+}
