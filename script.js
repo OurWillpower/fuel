@@ -1,5 +1,4 @@
 async function loadSection(id,file){
-
 try{
 
 const response=await fetch(file);
